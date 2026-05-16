@@ -1,0 +1,5 @@
+{
+  "description": "A read-only reconciliation service that detects human setup errors by comparing Asana (Source of Truth) against live campaign settings in Google Ads and Meta.",
+  "topics": ["campaign-reconciliation", "asana", "google-ads", "meta", "qa-automation", "typescript"],
+  "keywords": ["reconciliation", "campaign-management", "error-detection", "integration"]
+}
