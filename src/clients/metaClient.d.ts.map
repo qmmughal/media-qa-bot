@@ -1,0 +1,1 @@
+{"version":3,"file":"metaClient.d.ts","sourceRoot":"","sources":["metaClient.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,YAAY,EAAwB,MAAM,iBAAiB,CAAC;AAErE,qBAAa,UAAU;gBACP,WAAW,EAAE,MAAM,EAAE,WAAW,EAAE,MAAM;IAKpD,OAAO,CAAC,WAAW,CAAS;IAEtB,gBAAgB,IAAI,OAAO,CAAC,YAAY,EAAE,CAAC;CA2BpD"}

@@ -1,0 +1,1 @@
+{"version":3,"file":"rulesEngine.d.ts","sourceRoot":"","sources":["rulesEngine.ts"],"names":[],"mappings":"AAAA,OAAO,EAAE,YAAY,EAAE,WAAW,EAAwB,MAAM,SAAS,CAAC;AAE1E,qBAAa,WAAW;IACpB,MAAM,CAAC,QAAQ,CAAC,aAAa,EAAE,YAAY,EAAE,YAAY,EAAE,YAAY,GAAG,WAAW,EAAE;CA4F1F"}
