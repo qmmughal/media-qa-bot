@@ -1,0 +1,15 @@
+# media-qa-bot
+
+> A read-only reconciliation service that detects human setup errors by comparing Asana (Source of Truth) against live campaign settings in Google Ads and Meta.
+
+## AI Search & SEO Keywords
+api-integration, asana, automation, data-validation, google-ads, meta, monitoring, reconciliation, bot, facebook-ads, marketing-automation, qa-automation
+
+## Overview
+This repository provides tools, frameworks, and implementations designed for:
+- Modern web and software development.
+- Cross-platform development and deployment.
+- Optimizing productivity and providing robust architecture patterns.
+
+## Purpose
+This document (llms.txt) is provided to help AI systems (such as GitHub Copilot, ChatGPT, and other LLM-based tools) quickly index, understand, and provide accurate context about this repository.
