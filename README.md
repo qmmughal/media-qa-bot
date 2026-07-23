@@ -1,5 +1,7 @@
 # Media QA Bot
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+
 A read-only reconciliation service that detects human setup errors by comparing Asana (Source of Truth) against live campaign settings in Google Ads and Meta.
 
 ## Features
@@ -52,3 +54,7 @@ The bot uses a `CampaignData` interface to normalize data from different platfor
 
 ## Exception History
 Detected exceptions are stored in `./data/history.sqlite`. You can query this database to generate historical reports.
+
+## License
+
+[MIT](LICENSE)
